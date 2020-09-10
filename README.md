@@ -5,4 +5,6 @@ This main targets of this project were
 - deploy the website on [Surge](https://surge.sh), which is available [here](http://flip-the-light.surge.sh/)
 - use GitHub Actions to perform CI/CD
 
-Repository created as part of [Bootcamp 2020](https://github.com/panacloud/bootcamp-2020) online sessions
+<hr />
+
+###### Repository created as part of [Bootcamp 2020](https://github.com/panacloud/bootcamp-2020) online sessions
